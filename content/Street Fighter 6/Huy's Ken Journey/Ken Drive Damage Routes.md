@@ -1,0 +1,7 @@
+## Drive Damage Tests
+- (fully blocked) (Drive Rush cMP OR sHP) xx Drive Rush sHP xx MK Jinrai Kick, LK follow-up. True block-string other than the LK follow-up, use 3 bars of drive for 1.5 bars of drive damage. If you can get sHP by itself without cancel or sHP xx HK Jinrai before starting this, the drive damage will be immense.
+- In combo-routing, the only things that allow you to to go into a guaranteed Drive Impact on hit with Ken are heavy punches. So sHP xx Drive Impact or cHP xx Drive Impact will cost 1 drive bar to do 1 drive bar of damage. If you're ahead on drive or they only have 1 drive bar left, this is something to be extremely aware of so that you don't have to use Super Art meter. Remember that SA1 is 0.5 drive bars of damage, SA2 is 1 drive bar of damage, and SA3 is 1.5 drive bars of damage.
+## Ken's SA2 on -5 on block or -1 on burnout
+- You can attack drive bar with a lot of resources: Drive Rush st.HP > st.MP,HP xx Drive Rush st.HP > st.MP,HP xx OD Jinrai,HK,HK xx SA2 for 3.8 drive bars of drive damage costing 5.1 drive bars. If they push a button during st.MP,HP xx Drive Rush st.HP, you will trade and you can score a hit of st.HP xx whatever (like running into run DP).
+- Drive Rush st.HP > st.MP,HP xx OD Jinrai,HK,HK xx SA2 costs 2.8 drive bars to do 2.9 drive bars of drive damage.
+- Max chip damage in corner when they're burnt out: st.MP xx OD Hadoken > st.MP xx OD Hadoken > st.LK xx OD Jinrai,HK,HK xx SA2 > OD Shoryuken

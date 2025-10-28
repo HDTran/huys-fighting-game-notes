@@ -1,10 +1,10 @@
 {
-  "name": "@jackyzha0/quartz",
-  "description": "🌱 publish your digital garden and notes as a website",
+  "name": "huys-fighting-game-notes",
+  "description": "Huy's fighting game notes from Obsidian, published with Quartz SSG.",
   "private": true,
   "version": "4.5.2",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "Notes by Huy <gethuytran@gmail.com> and Quartz by jackyzha0 <j.zhao2k19@gmail.com>",
   "license": "MIT",
   "homepage": "https://quartz.jzhao.xyz",
   "repository": {
@@ -13,6 +13,7 @@
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
+    "build": "npx quartz build",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
