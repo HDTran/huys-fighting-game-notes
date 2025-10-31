@@ -1,15 +1,15 @@
 ## Okizeme Situations
-### 25f routing
+### 25f Advantage
 - sMP, HP xx run, run Shoryuken = 25f oki
 - HP Shoryuken = 25f oki
 Okizeme
 - (whiff) c.LP > (usually blocked) s.HP > s.LP (invest more with xx Drive Rush s.LP)
-### 26f routing
+### 26f Advantage
 - sMP, HP xx MK Jinrai > HP Shoryuken = 26f oki
 - sMP, HP xx MK Jinrai, delayed HK follow-up > HP Shoryuken = 26f-27f
 Okizeme
 - (see 25f routing)
-### 28f routing
+### 28f Advantage
 - Jinrai LK and MK > CH follow-up LK = 28f oki
 TODO: Okizeme
 - TODO: (whiff) s.MP > c.MP xx MK Jinrai, LK follow-up?
@@ -19,24 +19,24 @@ TODO: Okizeme
 - forward dash > microwalk back to avoid the throw for possible shimmy setup
 - (corner) (whiff) st.LP > OD Hadoken is +2 on block, +6 on regular hit. It will also beat level 1 supers on OD Hadoken, so you can keep continuing with cr.HP when you Punish Counter them.
 - (corner) (whiff) cr.LK > st.HP is 0 on block, +5 on regular hit 
-### 32f routing
+### 32f Advantage
 - sMK, MK, HK
 TODO: Okizeme
-### 33f/34f routing
+### 33f/34f Advantage
 Should I discard this route? I'm used to using it, but it does do less damage than the HP Shoryuken variants in the corner. It's good for creating baits though, so when you land, you can bait a whiffed s.MP and then walk back with more frames.
 - c.MP xx LK Tatsumaki > MP Shoryuken = 33f
 - sMP, HP xx MK Jinrai, delayed HK follow-up > MP Shoryuken = 33f-34f
 - sMP, HP xx MK Jinrai > MP Shoryuken = 34f
 TODO: Okizeme
-### 36f routing
+### 36f Advantage
 - Super Art 2 = 36f oki
 Okizeme
 - (corner) (whiff) s.LP > LP Hadouken? TODO: Test 
-### 40f routing
+### 40f Advantage
 - c.HK
 Okizeme
 - TODO
-### 42f routing
+### 42f Advantage
 This is the corner safe jump route.
 - sMP, HP xx MK Jinrai = 42f oki.
 - s.MP, HP xx run, run Dragonlash = 42f oki.
@@ -49,7 +49,7 @@ Okizeme
 - TODO: (corner) safe j.HK, TODO: test shimmy ability
 - two dashes > throw
 - two dashes > c.LP
-### 43f routing
+### 43f Advantage
 - s.MP, HP xx run, run Tatsumaki = 43f oki
 Okizeme
 - (corner) Whiffed empty jump, you won't get a normal with it on block. So it's best to go for throw, s.LP, or c.LK.
