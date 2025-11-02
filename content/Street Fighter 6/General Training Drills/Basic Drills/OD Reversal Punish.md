@@ -13,7 +13,7 @@ I recommend picking a character with a standard OD Reversal move such as Luke or
 - **Sets/reps.** 20 health bars from the left and then 20 health bars from the right in one set.
 - **Expanding.** You can expand this drill by doing a corner carry for your first combo, a corner combo, a cash out combo to kill, etc. Reset if you're wrong. You can also expand this drill by using different characters that propel forward--DeeJay and Juri can be difficult for some punishes to land given their forward momentum or animation landing.
 ## Proper Form
-- You should always respond to Drive Impact with your Drive Impact button without shifting your hand. This gives you the fastest response time in real battle. For most people, this is going to be the "4P" button (often L1 on a stick or leverless controller) with your pinky. If you shift your hand to use your other fingers or you use two fingers to do `HP+HK`, restart.
+- The landing/recovery frames of certain OD Reversals may be tough to adjust to visually. Try different characters to get the timing correct.
 ## Ken Expansion with Run Tatsumaki
-1. On first OD Reversal mid-screen: `Run, run Tatsumaki > sMP, HP xx run, run Tatsumaki > dash forward > dash forward`.
-2. On first OD Reversal in corner: `Run, run Tatsumaki > sMP xx Drive Rush cHP xx run, run stop sMP xx Drive Rush cHP xx run, run stop sMP, HP xx run, run Shoryuken xx SA3`.
+1. On first OD Reversal, mid-screen: `Run, run Tatsumaki > sMP, HP xx run, run Tatsumaki > dash forward > dash forward`.
+2. On second OD Reversal, in corner: `Run, run Tatsumaki > sMP xx Drive Rush cHP xx run, run stop sMP xx Drive Rush cHP xx run, run stop sMP, HP xx run, run Shoryuken xx SA3`.
