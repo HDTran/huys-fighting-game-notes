@@ -1,12 +1,14 @@
-This uppercut training is good for keeping people in the corner as well as rewiring your brain to prioritize follow-up actions when throws get jumped. This training is specifically for uppercuts executed with the Dragon-punch/Shoryuken motion (`f, d, d/f`).
-## Set up
-- **Health.** Standard (no refill).
-- **Block.** Block all.
-- TODO ???. Standing.
-- **Wakeup reversal slots.** Forward Jump, Vertical Jump.
+This uppercut training is good for keeping people in the corner, stopping people from crossing you up, and rewiring your brain to prioritize follow-up actions when throws get jumped. This training is specifically for uppercuts executed with the Dragon-punch/Shoryuken motion (`f, d, d/f`).
+
+Make sure to pick a character with a standard jump time (most of the cast) at 45F. Do not use characters that have slower jumps like Chun-Li. You can check for [jumping frames on Fullmeter in the jumping tab](https://fullmeter.com/fatonline/#/framedata/SF6/Chun-Li).
+## Settings
+- **Vitality Recovery Settings (P1 and P2).** Standard (no refill).
+- **Block.** Block All.
+- **Dummy Behavior.** Standing.
+- **Wakeup Reversal Slots.** Forward Jump, Vertical Jump.
 - **Position**. Corner of the screen, cornering opponent.
 ## Drill
-- **Exercise.** Initiate with throwing the opponent. Then go up for a throw loop throw (even if your character doesn't have one either by walking, drive rushing, or dashing based on character). Then crosscut uppercut the forward jump or forward uppercut the neutral jump. Reset if you miss even a single one.
+- **Exercise.** Initiate with throwing the opponent. Then go up for a throw loop throw (even if your character doesn't have one either by walking, drive rushing, or dashing based on character). Then crosscut uppercut the forward jump or forward uppercut the neutral jump. You want to nail the anti-air as late and deep as possible because it'll give you more okizeme time (to Drive Rush, dash, or walk forward afterward) in match. Reset if you miss even a single one.
 	- If it's a crosscut uppercut, allow the dummy to do whatever jump they will on wakeup, jump over them/dash under them and push them into the corner again. Reinitiate with a throw.
 	- If it's a forward uppercut, immediately whiff two throws after to get ready for the next jump rotation. You may need to manually wait here or frame kill if you want to get the timing perfect based on the character.
 - **Sets/reps.** 20 health bars from the left and then 20 health bars from the right in one set. It took me about 8-12 hours over multiple sets to get it right in SF6 to finally be able to see me using this in real battles.

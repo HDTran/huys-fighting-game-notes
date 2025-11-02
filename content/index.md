@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Huy's Fighting Game Obsidian Notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to a dump of Huy's Obsidian Notes for Fighting Games!

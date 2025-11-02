@@ -1,21 +1,20 @@
+I think of these as two different drills, but they've been grouped here because the settings are exactly the same. This uppercut training is good for those who have gotten used to jumping on you when you're walking backwards or crouching, including those who neutral jump to try to bait your throw whiff when the knockdown time is longer.
 
-
-- Set the game/dummy to Health: Standard (no refill), Block all, Standing.
-- Set a wakeup reversal slot to Forward Jump. Set a block reversal slot to Forward Jump.
-- Position: Do this in the middle of the screen.
-- Initiate/start with a long normal or throwing the opponent. Uppercut them until their health bar disappears. Reposition during knockdown to create the right scenario. If you miss one, reset and start the health bar over.
-- Sets/reps: My initial ones were 20 healthbars from the left and then 20 healthbars from the right. That's overkill though and I don't recommend it now. Better use of time to do like 5 healthbars from left and 5 from right or something.
-- **Expanding.** You can expand this drill by ending it with an OD Uppercut or Super when it will you think it will kill instead. Reset if you're wrong.
-- Proper form:
-  - For backwalking, during the knockdown of your opponent, you want to reposition yourself so that you're walking backward when they're jumping at you and you're in the right position for a DP. For Ken at average walkspeed, I end up walking forward a bit and then backward a bit so the position is perfect. The input you want your hand to get used to going from b and then either f,d,df or df,d,df. This is based on your controller. Pad and leverless is easier with f,d,df. Stick can do either.
-  - For crouching, during the knockdown of your opponent, walk back into position and crouch. The input you want your hand to get used to is going from either db or d, then df,d,df because you want your character to crouch the entire time, making it harder for you to get sniped by jumps. Especially those of the neutral shimmying kind from characters with vertically deep jumping normals.
-
-Additional notes:
-- You can tune this by adding a delay to the jump to accommodate for slow walk speed of your character.
-- Holding df at the end of your input is a good way to feel completion of the motion.
-- Adding multiple forward jump slots with different delays can make it more challenging, but I just keep it at 0f with Ken to grind it out quickly to save time.
-- Crouching uppercuts make Marshall Law and Lee Chaolan's slides super easy in Tekken, hahaha. It's basically the same motion as df~d~df.
-
-If you want the history of this:
-- Keishi and Mike tested the neutral jump shimmy against a late throw tech against me a lot. It's still effective in certain scenarios (especially after an anti-air > drive rush forward > jump up fake), but you can fight some of it on reaction if you're willing to take the throw and just watch their character. If they go up, this is when you'll get the crouching uppercut. There were times where Keishi was in my head, like--why are you blocking again? Why don't you just c.HP? But I refuse as a character with a Shoryuken!
-- Mike kept landing perfect cannon strikes at my knee/toe while walking backward. So I needed to be faster to even have a chance to intercept any of those, otherwise I basically only had Drive Rush s.LP to fight him because he was crushing all of my c.MKs in neutral and shimmying everything. Walking forward can be hard sometimes.
+Make sure to pick a character with a standard jump time (most of the cast) at 45F. I like using Sagat because his animation has specifically always felt heavy like I shouldn't try to anti-air him even though the time is the same. Do not use characters that have slower jumps like Chun-Li. You can check for [jumping frames on Fullmeter in the jumping tab](https://fullmeter.com/fatonline/#/framedata/SF6/Chun-Li).
+## Settings
+- **Vitality Recovery Settings (P1 and P2).** Standard (no refill).
+- **Block.** Block All.
+- **Dummy Behavior.** Standing.
+- **Wakeup Reversal Slots.** Forward Jump.
+- **Block Reversal Slots.** Forward Jump.
+- **Position**. Middle of the screen.
+## Drill
+- **Exercise.** Initiate with hitting the blocking opponent with a long-ranged attack like `cMK`. Then uppercut the opponent and repositioning relative to the enemy so that you're backwalking or crouching again during the next jump when they wake up. You want to nail the anti-air as late and deep as possible because it'll give you more okizeme time (to Drive Rush, dash, or walk forward afterward) in match. Reset if you're wrong.
+	-  If it's a backwalking uppercut, I often had to walk forward and to be able to walk backward during the next uppercut.
+	- If it's a crouching uppercut, I walked to the position where the jump would be caught and just crouched.
+- **Sets/reps.** 20 health bars from the left and then 20 health bars from the right in one set.
+- **Expanding.** You can expand this drill by ending it with an OD Uppercut or Super when it will you think it will kill instead. Reset if you're wrong. You can also expand this drill by adding a Do Nothing Slot or more Forward Jump slots with different Delay timings to make it harder. Reset if you're wrong. I haven't personally done this because I just jam quickly through this drill to fix my form.
+## Proper Form
+  - For backwalking uppercuts, the input you want your hand to get used to going from `b` and then either `f, d, df` or `df, d, df`. This is based on your controller. Pad and leverless is easier with `f, d, df`. Stick can do either, but I do prefer the `df, d, df`.
+  - For crouching uppercuts, the input you want your hand to get used to is going from either `db` then `df, d, df` because you want your character to crouch the entire time, making it harder for you to get hit by jumps.
+  - Holding `df` at the end of your input is a good way to feel completion of the motion and will help the input reader register the special move.

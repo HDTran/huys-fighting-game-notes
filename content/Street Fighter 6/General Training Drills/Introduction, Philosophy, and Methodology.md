@@ -24,7 +24,7 @@ For example, if you wanted to build out a drill to top-off Drive Impact Defense 
 
 This keeps the defensive drill entertaining and doubles you up on training different skills.
 ## How to Effectively Record SF6 Actions
-On the recording tab, enable "On First Input" and set the "Countdown" to 5 so that you can tighten up recordings and do them more easily!
+On the Recording Settings tab, enable Recording Trigger to be "On Input" and set the Countdown to 5 seconds so that you can tighten up recordings and do them more easily!
 
 Determine whether you need to recording the dummy approaching. If so, reset the positioning to mid-screen before you record it. If not, reset the positioning to corner/cornered before you record it. Remember that the reset controls for positioning are as follows:
 - Touchpad = mid-screen
@@ -33,6 +33,8 @@ Determine whether you need to recording the dummy approaching. If so, reset the 
 - Up+Right+Touchpad = reversed-corner-right-screen
 - Right+Touchpad = corner-left-screen
 - Up+Right+Touchpad = reversed-corner-left-screen
+## How to Save Training Options
+Street Fighter 6 saves Reversal Settings and Recording Slots per character. If you spread out your training drills between multiple characters, you can swap to the drill you want without the need to set them up again with Character Select.
 ## How Many Reps and Sets
 The science of training is long and studied through many crafts and professions.
 
@@ -53,7 +55,7 @@ To determine reps and sets, I use the following:
 
 Then on a weekly basis, I target getting the appropriate amount of sets in. And I track the total number of sets (given how many good reps are in each one) to figure out when a skill should get out of the encoding phase.
 
-Example: If I was doing combo training and it takes 3 combos to deplete a health bar, and I can deplete 20 health bars in 30 minutes from 1P and 2P sides, I would say that 1 set is equal to `3 combos x 20 health bars` or 60 reps. If my encoding goal is 1,000 good reps, that means `1000 good reps / 60 reps per set`  or 17 sets (rounded from 16.67) that I want to accomplish with this drill before I potentially move it into top-off phase. During the encoding phase, I would try to get at least 1 set in per week.
+Example: If I was doing combo training and it takes 3 combos to deplete a health bar, and I can deplete 20 health bars in 30 minutes from 1P and 2P sides, I would say that 1 set is equal to `3 combos x 20 health bars` or 60 reps. If my encoding goal is 1,000 good reps, that means `1,000 good reps / 60 reps per set`  or 17 sets (rounded from 16.67) that I want to accomplish with this drill before I potentially move it into top-off phase. During the encoding phase, I would try to get at least 1 set in per week.
 ## How Many Drills Should We Juggle and How Much Should We Train
 I'm still trying to figure this out. At this point, I'm trying to get many drills to the top-off point so that my standard toolbox is larger.
 

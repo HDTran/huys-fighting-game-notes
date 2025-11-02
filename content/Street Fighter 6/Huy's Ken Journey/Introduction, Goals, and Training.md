@@ -2,7 +2,7 @@ These are actual notes that I've collected and worked in my brain when playing K
 
 There are a few core things to note about my journey that is relevant:
 - I have the honor of being in the company of great players who helped me grow every Thursday. Without putting in those hours with them and having a shared love for this game, I wouldn't have tried this. I've learned how to play nuanced Street Fighter 6 from playing with them on so many Thursdays.
-- I'm over-indexed on BattleHub and Custom Room -- so the next part of my journey is fixing Ranked Matches and using Training Mode explicitly. The beginning of my Tiny Experiments tracking is the beginning of playing Ken at Master Rank.
+- I'm over-indexed on BattleHub and Custom Room, so the next part of my journey is fixing Ranked Matches and using Training Mode explicitly. The beginning of my Tiny Experiments tracking is the beginning of playing Ken at Master Rank.
 - Finding the time to play is difficult. I typically only play games for 3 hours a week, which was Thursday. I am trying to carve out an additional 7 hours (or 2 nights) a week to pursue these goals.
 ## High-Level Goal Tracking
 Goals:
@@ -36,12 +36,13 @@ Outside of combos, this is the order of training drills that have helped me real
 
 In order:
 1. [[Drive Impact Defense]]
-2. [[OD Reversal Punish + Run Tatsumaki Combos]]
-3. [[Crosscut Uppercuts]]
-4. [[Backwalking and Crouching Uppercuts]]
-5. [[Run Tatsumaki > sLP xx Run Okizeme Rotations 1 (Overhead) and 2 (Low)]]
-6. [[M. Bison Knee Press Recognition + Corner Jinrai Loops]]
-7. [[Drive Impact Defense + Corner Jinrai Loops]]
+2. [[OD Reversal Punish#Ken Expansion with Run Tatsumaki]]
+3. [[Delayed Drive Rush Offense]]
+4. [[Crosscut Uppercuts]]
+5. [[Backwalking and Crouching Uppercuts]] (as two separate drills)
+6. [[Run Tatsumaki > sLP xx Run Okizeme Rotations 1 (Overhead) and 2 (Low)]]
+7. [[M. Bison Knee Press Recognition#Ken Expansion with Jinrai Loops]]
+8. [[Drive Impact Defense#Ken Expansion with Jinrai Loops]]
 ## Resources
 - BCTP Club: https://www.streetfighter.com/6/buckler/club/c7f6693937174889960be38433e0e073
 - CoffeeHuy Buckler Profile: https://www.streetfighter.com/6/buckler/profile/2598585360

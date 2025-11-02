@@ -5,7 +5,7 @@
 - TODO
 ## Blanka
 - TODO: air ball
-- TODO: DP pockets, use LP DP
+- TODO: DP pockets, use LP DP, especially on second ball of SA2
 - TODO: It's very difficult to PP Blanka Ball or DP it, it isn't Headbutt, proceed with caution. If you do try to PP a Blanka Ball, it's worth holding onto parry and drive rushing after to see if you can get anything
 - TODO: If you can shoot, shooting once or twice can get the Blanka thinking about  sliding. Keep putting in thoughts of what you might do to force unwanted moves.
 - TODO
