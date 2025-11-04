@@ -37,13 +37,14 @@ Outside of combos, this is the order of training drills that have helped me real
 
 In order:
 1. [[Drive Impact Defense]]
-2. [[OD Reversal Punish#Ken Expansion with Run Tatsumaki]]
+2. OD Reversal Punish + [[OD Reversal Punish#Ken Expansion with Run Tatsumaki]]
 3. [[Delayed Drive Rush Offense]]
 4. [[Crosscut Uppercuts]]
 5. [[Backwalking and Crouching Uppercuts]] (as two separate drills)
 6. [[Run Tatsumaki > sLP xx Run Okizeme Rotations 1 (Overhead) and 2 (Low)]]
-7. [[M. Bison Knee Press Recognition#Ken Expansion with Jinrai Loops]]
-8. [[Drive Impact Defense#Ken Expansion with Jinrai Loops]]
+7. M. Bison Knee Press Recognition+ [[M. Bison Knee Press Recognition#Ken Expansion with Jinrai Loops]]
+8. Drive Impact Defense + [[Drive Impact Defense#Ken Expansion with Jinrai Loops]]
+9. [[Drive Rush Defense Option Select]]
 ## Resources
 - BCTP Club: https://www.streetfighter.com/6/buckler/club/c7f6693937174889960be38433e0e073
 - CoffeeHuy Buckler Profile: https://www.streetfighter.com/6/buckler/profile/2598585360
