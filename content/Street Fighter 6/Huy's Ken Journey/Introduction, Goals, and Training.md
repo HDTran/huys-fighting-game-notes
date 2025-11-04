@@ -1,8 +1,8 @@
-These are actual notes that I've collected and worked in my brain when playing Ken. No more, no less. These are here as a record of what it took me to play this character.
+These are actual notes that I've collected and worked in my brain when playing Ken. No more, no less. This is a record of what it took me to play this character.
 
 There are a few core things to note about my journey that is relevant:
 - I have the honor of being in the company of great players who helped me grow every Thursday. Without putting in those hours with them and having a shared love for this game, I wouldn't have tried this. I've learned how to play nuanced Street Fighter 6 from playing with them on so many Thursdays.
-- I'm over-indexed on BattleHub and Custom Room, so the next part of my journey is fixing Ranked Matches and using Training Mode explicitly. The beginning of my Tiny Experiments tracking is the beginning of playing Ken at Master Rank.
+- I'm over-indexed on BattleHub (non-ranked Battles), so the next part of my journey is fixing Ranked Matches and using Training Mode explicitly. The beginning of my Tiny Experiments tracking is the beginning of playing Ken at Master Rank.
 - Finding the time to play is difficult. I typically only play games for 3 hours a week, which was Thursday. I am trying to carve out an additional 7 hours (or 2 nights) a week to pursue these goals.
 ## High-Level Goal Tracking
 Goals:
@@ -16,7 +16,7 @@ Notes:
 - For Buy C1 Color Bundle, alternatively buy 8 colors.
 ## Training
 ### Initial Combos
-These are the combos I actually use a majority of the time learning Ken. There are more specialized combos for specific situations or maxing out more damage, but starting here has been a good place for me.
+These are the combos I use a majority of the time learning Ken. There are more specialized combos for specific situations or maxing out more damage, but starting here has been useful.
 
 The core combos:
 - **Jab Confirm Combo.** `cLP/cLK xx cLP/cLK xx sLP xx HP Shoryuken`.
@@ -26,10 +26,11 @@ The core combos:
 - **Drive Rush Combo.**
 	- **Corner Carry and Oki.** `cMP/cMK/sHP xx DR cHP xx run, stop > sMP,HP xx run, run Tatsumaki.
 	- **Damage.** `cMP/cMK/sHP xx DR cHP xx run, stop > sMP,HP xx run, run Shoryuken`.
-	- **Safejump.** `cMP/cMK/sHP xx DR cHP xx run, stop > sMP,HP xx MK Jinrai > Jump Forward`.
+	- **Safe-jump.** `cMP/cMK/sHP xx DR cHP xx run, stop > sMP,HP xx MK Jinrai > Jump Forward`.
+	- **Corner Switch.** `cMP/cMK/sHP xx DR cHP xx run, stop > sMP,HP xx run, run Dragonlash > HP Shoryuken.
 - **Cash Out Looping SA3 Combo.**  `cMP/cMK/sHP xx DR cHP xx run, stop > sMP xx DR cHP xx run, stop > sMP,HP xx run, run Shoryuken xx SA3`.
-- **Long-range Whiff-Punish Combo.**  `PC sHK > DR sHP xx run, run Shoryuken`. You may need the meterless version when burnt out or conserving meter with `PC sHK > run, run Shoryuken`, so that's worth practicing.
-- **Blocked/Whiffed OD Reversal Punish Counter.** `Run, run Tatsumaki > sMP,HP xx run, run Shoryuken`. More damage variants by routing differently after `sMP`, but those will be obvious as you play more Ken.
+- **Long-range Whiff-Punish Combo.**  `PC sHK > DR sHP xx run, run Shoryuken`. You may need the meter-less version when burntout or conserving meter with `PC sHK > run, run Shoryuken`, so it's worth practicing.
+- **Blocked/Whiffed OD Reversal Punish Counter.** `Run, run Tatsumaki > sMP,HP xx run, run Shoryuken`. More damage variants by routing differently after `sMP`, but those will be obvious from standard Ken routing.
 - **Drive Impact Midscreen SA2 Cash Out Combo.** `DI > cHP xx HK Jinrai > OD Dragon Lash > OD Jinrai xx HK,HK Followups xx SA2`.
 ### Training Drill List
 Outside of combos, this is the order of training drills that have helped me realize Ken.

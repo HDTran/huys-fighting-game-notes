@@ -1,7 +1,10 @@
 ## AKI
-- TODO: AKI has no OD reversal
+- TODO: AKI has no OD reversal, will likely Drive Reversal/super more
+- TODO: OD slide is beaten by throw
 - TODO
 ## Akuma
+- TODO: reeling from Adamant Flame
+- TODO: air fireball disappearing with AA
 - TODO
 ## Blanka
 - TODO: air ball
@@ -18,6 +21,7 @@
 - Chun's light fireball goes about 2 character ranges away before it disappates. A good way to fight her is to backdash/walk back into the disappate range and then prepare to check her if she walks in thinking she still has the shield to block you.
 - TODO
 ## C. Viper
+- TODO: burnout advantage
 - TODO
 ## Dee Jay
 - TODO: overhead tests
@@ -26,7 +30,8 @@
 - TODO: is DeeJay crouching for fireball or standing?
 - TODO
 ## Dhalsim
-- TODO: Ground and air teleport
+- TODO: Ground and air teleports
+- TODO: abuse defense with immediate timing
 - TODO
 ## E. Honda
 - TODO: Understanding charge timing
@@ -43,6 +48,7 @@
 - TODO
 ## Elena
 - TODO: You can't whiff heavy attacks against Elena and likely not even medium attacks in neutral
+- TODO: fireball is hard for her to get around
 - TODO
 ## Guile
 - TODO: overhead tests
@@ -119,6 +125,7 @@
 - TODO: Round Start tiger knee
 - TODO: Sagat is really tall so unless someone is very focused on AA, there's a high chance you get a block. Test it in awkward times (such as when Sagat is backwalking).
 - TODO: Do not jab in-between Sagat's sMP, otherwise he'll tag you with a cMP combo. If you really want to steal between the sMPs, do so with a perfect parry or invincible reversal.
+- TODO: long range DI susceptability
 - TODO
 ## Terry
 - TODO: Default Terry, running away and poking with c.MK.

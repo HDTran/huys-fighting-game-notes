@@ -1,5 +1,5 @@
 ## What Will it Take
-This is a hard question to answer because everyone will be different. I am not there yet, so I also cannot even say. This is my current working philosophy: figure out what questions I need to answer so I can sleep at night.
+This is a hard question to answer because everyone will be different. I am not there yet, so I also cannot even say this will work for me. This is my current working philosophy: figure out what questions I need to answer so I can sleep at night for one of the first fighting games with a great netplay and ranked mode.
 
 The questions I want to answer:
 - Where will I be if I put 400 hours (or 8,000 Battles) into Ranked Matches? What if I could find the time to play?
@@ -11,7 +11,7 @@ None of these questions have value judgements. They also don't have destinations
 I use the Tiny Experiments method outlined and written in Anne-Laure Le Cunff's book of the same name.
 
 The core Tiny Experiments method:
-- **Chunk learning by making smaller pacts.** If I look at the 400 hours of Ranked Matches I want to play, it will feel like an insurmountable amount. But if I chunk it down to 8 weeks of experimenting with whether I can keep up 140 Ranked Battles a week and then reevaluate, it becomes way more accomplishable.
+- **Chunk learning by making smaller pacts.** If I look at the 400 hours of Ranked Matches I want to play, it will feel like an insurmountable amount. But if I chunk it down to 8 weeks of experimenting with whether I can keep up 140 Ranked Battles a week and then reevaluate each chunk, it becomes way more accomplishable.
 - **Track my learning through Field Notes, Pluses, Minuses, and Next every week.** This is a simple log that also allows me to reflect every week so that I'm actually appreciating the time I have and learning the lessons I should.
 - **Learn publicly.** So others can help, hold me accountable, or comment if they want.
 
